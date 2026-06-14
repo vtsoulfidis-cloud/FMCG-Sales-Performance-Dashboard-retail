@@ -46,4 +46,6 @@ Power BI Desktop: Core dashboard design and visualization layout.
 
 DAX (Data Analysis Expressions): Used for advanced time-intelligence calculations (YoY Growth, Target Achievement rates) and dynamic status classification (Active, Never, Not this year).
 
+Data Modeling: Star schema modeling connecting Sales Transactions, Budgets/Targets, Product Master Data, and Customer Registry.status classification (Active, Never, Not this year).
+
 Data Modeling: Star schema modeling connecting Sales Transactions, Budgets/Targets, Product Master Data, and Customer Registry.
