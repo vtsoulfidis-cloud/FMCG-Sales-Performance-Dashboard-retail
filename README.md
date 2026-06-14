@@ -3,6 +3,7 @@ FMCG Field Sales & Target Tracking Dashboard
 An interactive, data-driven FMCG Field Sales Dashboard designed as a daily co-pilot for sales representatives and commercial teams. This tool transforms complex retail data into immediate commercial insights, optimizing daily store visits, tracking sales targets, and identifying distribution gaps at the Point of Sale (POS).
 
 1. Sales Performance & Commercial Overview
+![Dashboard Screenshot](Overview.png)
 
 This tab serves as the sales representative's daily starting point. It provides an immediate health check of the territory's sales compared to set targets and previous years.
 
@@ -13,6 +14,7 @@ Category Share Evolution: Monitor category performance (e.g., Cat1 maintaining a
 Customer Prioritization: Spot top-tier accounts (e.g., Customer 1, Customer 27) showing significant target gaps and plan corrective actions before visiting.
 
 2. SKU Performance & Numeric Distribution Analysis
+![Dashboard Screenshot](SKU.png)
 
 Focused entirely on in-store execution and portfolio expansion. It helps the representative identify exactly which products are winning or losing ground in retail points.
 
@@ -23,6 +25,7 @@ Distribution Point Change (Δ 2025 vs 2026): The visual green/red bar chart high
 Volume Contribution: Evaluate if category-level sales drops are driven by specific underperforming SKUs.
 
 3. Customer Status & Field Route Optimizer
+![Dashboard Screenshot](Customer Status.png)
 
 Designed to assist in territory management, route planning, and customer relationship recovery. It provides exact geographic and status details for every retail outlet.
 
