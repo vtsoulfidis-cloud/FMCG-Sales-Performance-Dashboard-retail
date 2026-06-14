@@ -25,7 +25,7 @@ Distribution Point Change (Δ 2025 vs 2026): The visual green/red bar chart high
 Volume Contribution: Evaluate if category-level sales drops are driven by specific underperforming SKUs.
 
 3. Customer Status & Field Route Optimizer
-![Dashboard Screenshot](CustomerStatus.png)
+![Dashboard Screenshot](Customer Status.png)
 
 Designed to assist in territory management, route planning, and customer relationship recovery. It provides exact geographic and status details for every retail outlet.
 
